@@ -1,5 +1,6 @@
 /*
 Covid 19 Data Exploration 
+link to tableau dashboard:https://public.tableau.com/authoring/covid19tableau_16624864920610/Dashboard1#1
 */
 
 Select *
